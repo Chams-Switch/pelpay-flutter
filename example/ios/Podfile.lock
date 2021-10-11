@@ -1,0 +1,29 @@
+PODS:
+  - Flutter (1.0.0)
+  - Pelpay (1.0.2)
+  - pelpay_flutter (1.0.0):
+    - Flutter
+    - Pelpay (~> 1.0.2)
+
+DEPENDENCIES:
+  - Flutter (from `Flutter`)
+  - pelpay_flutter (from `.symlinks/plugins/pelpay_flutter/ios`)
+
+SPEC REPOS:
+  trunk:
+    - Pelpay
+
+EXTERNAL SOURCES:
+  Flutter:
+    :path: Flutter
+  pelpay_flutter:
+    :path: ".symlinks/plugins/pelpay_flutter/ios"
+
+SPEC CHECKSUMS:
+  Flutter: 50d75fe2f02b26cc09d224853bb45737f8b3214a
+  Pelpay: 1fe9224ef5753b743c9125b4e47efc0d533b5d64
+  pelpay_flutter: 2f036b261d765f86780ef0b3f55cc8de39872b4e
+
+PODFILE CHECKSUM: aafe91acc616949ddb318b77800a7f51bffa2a4c
+
+COCOAPODS: 1.11.2
